@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: #008968;
+  color: #f7f5ff;
+}
+
+
+a {
+  text-decoration: none;
+}
